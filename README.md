@@ -15,7 +15,7 @@ Islamic API adalah sebuah API yg menampilkan data2 islami, seperti : Doa2 Tahlil
 | Doa Doa Tahlil | https://islamic-api-zhirrr.vercel.app/api/tahlil | 
 
 # Installation
-If you want to add this project in your own machine, you can install this project by following the step below
+Jika Anda ingin menambahkan proyek ini di komputer Anda sendiri, Anda dapat menginstal proyek ini dengan mengikuti langkah di bawah ini :
 
 1. Clone this repository
 ```
@@ -23,8 +23,7 @@ git clone https://github.com/Zhirrr/islamic-rest-api-official.git
 ```
 2. Install dependencies
 
-In my case, i'm using pnpm for package manager, you can adjust with your favorite package manager
-
+Dalam API saya, saya menggunakan pnpm untuk manajer paket, Anda dapat menyesuaikan dengan manajer paket favorit Anda
 ```
 pnpm install
 node ./index.js
