@@ -3,18 +3,12 @@
 
 <p>Ayo Kita Pertebal Iman Kita !</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/satyawikananda/waifu-generator/main/LICENSE?token=AH44ZFA7YM7EATKXBSYW4Q27ZUC7I)
-[![Issue](https://img.shields.io/github/issues/satyawikananda/waifu-generator)](https://img.shields.io/github/issues/satyawikananda/waifu-generator)
-[![Forks](https://img.shields.io/github/forks/satyawikananda/waifu-generator)](https://img.shields.io/github/forks/satyawikananda/waifu-generator)
-[![Stars](https://img.shields.io/github/stars/satyawikananda/waifu-generator)](https://img.shields.io/github/stars/satyawikananda/waifu-generator)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 </div>
 
 # Description
-Waifu generator is an open source project and simple API to get list of waifu, the data was scrapped from [Waifu wednesday tag from Jurnal otaku](http://jurnalotaku.com/tag/waifu-wednesday/). For the tech stack, Waifu Generator was using Node js, Cheerio, axios and Vercel for serverless
+Islamic API adalah sebuah API yg menampilkan data2 islami, seperti : Doa2 Tahlil, Asmaul Husna, DLL
 
-# API
-For now, Waifu Generator just have one endpoint to get the list of all data waifu and maybe will be update soon
 
 | Description | Endpoint | 
 |------------ | ---------|
@@ -25,7 +19,7 @@ If you want to add this project in your own machine, you can install this projec
 
 1. Clone this repository
 ```
-git clone https://github.com/Zhirrr/islamic-rest-api.git
+git clone https://github.com/Zhirrr/islamic-rest-api-official.git
 ```
 2. Install dependencies
 
@@ -36,11 +30,8 @@ pnpm install
 node ./index.js
 ```
 
-# Contribution
-Want to make this project better? You can contribute this project, I am very open if there are contributions to this project.
-
 ---
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
-Powered by Node js and vercel. Code licensed under MIT License.
+Powered by Node.js and Vercel + Created By Zhirrr
