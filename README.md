@@ -12,7 +12,7 @@ Islamic API adalah sebuah API yg menampilkan data2 islami, seperti : Doa2 Tahlil
 
 | Description | Endpoint | 
 |------------ | ---------|
-| Doa Doa Tahlil | https://islamic-api.vercel.app/api/tahlil | 
+| Doa Doa Tahlil | https://islamic-api-zhirrr.vercel.app/api/tahlil | 
 
 # Installation
 If you want to add this project in your own machine, you can install this project by following the step below
