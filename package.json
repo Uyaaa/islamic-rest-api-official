@@ -1,0 +1,25 @@
+{
+  "name": "islamic-api",
+  "version": "1.0.0",
+  "description": "Pertebal Iman Kalian !",
+  "main": "index.js",
+  "scripts": {
+    "start:scrape": "node ./index.js"
+  },
+  "keywords": [
+    "scrapper",
+    "node",
+    "anime",
+    "waifu"
+  ],
+  "author": "Zhirrr",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
